@@ -56,3 +56,4 @@ If you found this project helpful, please give it a star on GitHub! It helps oth
 *Please note: This repository does not contain any scripts or software for direct mining. It is purely educational and consultative.*
 
 
+
